@@ -1,8 +1,8 @@
-<h3 align='center'> Привет! :v:, я - Андрей Кузнецов </h3>
+<h3 align='center'> Привет! Я - Андрей Кузнецов </h3>
 
-:man_technologist: Работаю в тестировании более 2х лет.
+Работаю в тестировании более 2х лет.
 
-:man_student: Учусь автоматизации тестирования на Java в **QA.guru school**.
+Учусь автоматизации тестирования на Java в **QA.guru school**.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=buefy&show_icons=true&locale=ru" alt="andreigkuznetsov" /></p>
 
