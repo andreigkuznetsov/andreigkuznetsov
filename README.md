@@ -6,7 +6,7 @@
 **Учусь автоматизации тестирования на Java в QA.guru school**.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=graywhite&show_icons=true&locale=ru" alt="andreigkuznetsov">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=default&show_icons=true&locale=ru" alt="andreigkuznetsov">
  </p>
 
 ### Мой стек технологий:
