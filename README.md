@@ -1,12 +1,12 @@
 <h3 align='left'> Привет!</h3>
 
-Я имею 2 года опыта в обеспечении качества разработки ПО на проектах со сложной бизнес-логикой и архитектурой.<br><br>
+У меня более 2-х лет опыта в обеспечении качества разработки ПО на проектах со сложной бизнес-логикой и архитектурой.<br><br>
 В настоящее время в роли QA Engineer участвую в разработке собственного продукта компании DPD в России - логистической платформы, построенной на высоконагруженной клиент-серверной архитектуре: Desktop (Delphi+Oracle) + API, Web, Mobile и внешние сервисы.
 
 Учусь автоматизации тестирования на Java в **QA.guru school**.
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=default&show_icons=true&locale=ru" alt="andreigkuznetsov">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=graywhite&show_icons=true&locale=ru" alt="andreigkuznetsov">
  </p>
 
 ### Мой стек технологий:
