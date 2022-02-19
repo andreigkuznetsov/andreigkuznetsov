@@ -10,7 +10,7 @@
  </p>
 
 ### Мой стек технологий:
-![Intelij_IDEA](img/Intelij_IDEA.png)![PlSQLDev](img/pl_sql.jpg)![Java](img/Java.png)![Selenium](img/Selenium.png)![Selenide](img/Selenide.png)![Selenoid](img/Selenoid.png)![Docker](img/Docker.png)![Gradle](img/Gradle.png)![JUnit5](img/JUnit5.png)![Allure Report](img/Allure_Report.png)![AllureTestOps](img/AllureTestOps.png)![TestRail](img/testrail.png)![Github](img/Github.png)![Jenkins](img/Jenkins.png)![Appium](img/Appium.png)![Browserstack](img/Browserstack.png)![Rest-Assured](img/Rest-Assured.png)![Telegram](img/Telegram.png)![Jira](img/Jira.png)![Confluence](img/confluence_atl.png)
+![Intelij_IDEA](img/Intelij_IDEA.png)![PlSQLDev](img/pl_sql.jpg)![Java](img/Java.png)![Selenium](img/Selenium.png)![Selenide](img/Selenide.png)![Selenoid](img/Selenoid.png)![Docker](img/Docker.png)![Android Studio](img/android_studio.png)![Gradle](img/Gradle.png)![JUnit5](img/JUnit5.png)![Allure Report](img/Allure_Report.png)![AllureTestOps](img/AllureTestOps.png)![TestRail](img/testrail.png)![Github](img/Github.png)![Jenkins](img/Jenkins.png)![Appium](img/Appium.png)![Browserstack](img/Browserstack.png)![Rest-Assured](img/Rest-Assured.png)![Telegram](img/Telegram.png)![Jira](img/Jira.png)![Confluence](img/confluence_atl.png)
 
 ### Мои контакты:
 - [Telegram](https://t.me/andreikuzn)
