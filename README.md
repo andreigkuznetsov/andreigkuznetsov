@@ -3,7 +3,7 @@
 <b>У меня есть более 2-х лет опыта в обеспечении качества разработки ПО на проектах со сложной бизнес-логикой и архитектурой.<br><br>
 В настоящее время, в роли manual QA Engineer, участвую в разработке продукта компании DPD в России - логистической платформы, построенной на высоконагруженной клиент-серверной архитектуре: Desktop (Delphi+Oracle) + API, Web, Mobile и внешние сервисы.</b>
 
-**Учусь автоматизации тестирования на Java в QA.guru school**.
+**Учусь автоматизации тестирования на Java: прошел курс в QA.guru school, прохожу курс в JavaRush**.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=default&show_icons=true&locale=ru" alt="andreigkuznetsov">
