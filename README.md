@@ -1,9 +1,9 @@
 <h3 align='left'> Привет!</h3>
 
 <b>У меня есть опыт в обеспечении качества разработки ПО на проектах со сложной бизнес-логикой и архитектурой.<br><br>
-В настоящее время, в роли manual QA Engineer, участвую в разработке продукта компании DPD в России - логистической платформы, построенной на высоконагруженной клиент-серверной архитектуре: Desktop (Delphi+Oracle) + API, Web, Mobile и внешние сервисы.</b>
+В настоящее время работаю на внутреннем проекте: в роли QA Engineer участвую в разработке собственного продукта компании - логистической платформы, построенной на высоконагруженной клиент-серверной архитектуре: Desktop (Delphi+Oracle) + PostgreSQL, API, Web + Mobile и внешние сервисы.</b>
 
-**Учусь автоматизации тестирования на Java: прошел курс в QA.guru school, прохожу курс в JavaRush**.
+**Учусь автоматизации тестирования на Java: прошел курс в QA.guru school**.
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=default&show_icons=true&locale=ru" alt="andreigkuznetsov">
