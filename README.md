@@ -18,7 +18,6 @@
 ### Мои контакты:
 - [Telegram](https://t.me/andreikuzn)
 - [Email](mailto:andreikuzn@yahoo.com)
-- [CV](https://drive.google.com/file/d/1StwwAne5MAQTpuvKdhexlZnbXvgUJwl0/view?usp=sharing)
 
 <!--
 **andreigkuznetsov/andreigkuznetsov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
