@@ -5,7 +5,7 @@
 архитектурой, так и с веб-приложениями. Имею навыки тест-дизайна, анализа требований, участия 
 в code review и pull requests автотестов, а также опыт внедрения автоматизации и оптимизации 
 процессов тестирования. Заинтересован в расширении технической экспертизы — от автотестов 
-до FullStack, при этом готов решать задачи бизнеса на разных уровнях QA.</b>
+до FullStack QA, при этом готов решать задачи бизнеса на разных уровнях QA.</b>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=andreigkuznetsov&theme=default&show_icons=true&locale=ru" alt="andreigkuznetsov">
